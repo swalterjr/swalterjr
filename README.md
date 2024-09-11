@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swalterjr
 - 👀 I’m interested in changing careers into tech
-- 🌱 I’m currently learning python
+- 🌱 I’m currently Cybersecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach out to me on here!!
 
