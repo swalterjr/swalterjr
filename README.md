@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swalterjr
 - 👀 I’m interested in changing careers into tech
-- 🌱 I’m currently into Cybersecurity
+- 🌱 I’m currently into practice code.
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach out to me on here!!
 
